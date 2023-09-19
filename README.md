@@ -1,5 +1,13 @@
 # Checklist
 
+INSTRUCTIONS:
+
+->Launch the application.
+->Click in the text box and enter your task.
+->Press Enter to add the task to the list.
+->To mark a task as complete, click on it. A strikethrough will appear, indicating that the task has been completed.
+->To remove a task from the list, click on the X symbol next to it. The task will be removed from the list.
+
 Here are some tips for using the Checklist effectively:
 
 ->BE SPECIFIC: When adding a task to your list, be as specific as possible. This will help you to stay focused and avoid procrastination.
