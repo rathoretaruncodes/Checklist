@@ -1,9 +1,5 @@
-# Checklist App
-
 ## Description
 This repository hosts a flexible and user-friendly checklist application developed using HTML, CSS, and JavaScript. The checklist app allows you to create, manage, and organize your to-do lists, making it an invaluable tool for keeping track of tasks and staying organized.
-
-![Checklist App Demo](demo.gif)
 
 ## Features
 - Create, edit, and delete tasks.
